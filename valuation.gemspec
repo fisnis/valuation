@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Valuation", "--main", "README.textile"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{valuation}
-  s.rubygems_version = %q{1.2.0}
+  #s.rubygems_version = %q{1.2.0}
   s.summary = %q{A Ruby Gem For Corporate Finance Calculations.}
   s.test_files = ["test/test_cash_flows.rb", "test/test_helper.rb", "test/test_interest_rate.rb", "test/test_valuation.rb"]
 
