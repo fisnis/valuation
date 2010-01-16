@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name = %q{valuation}
   s.version = "0.0.1"
 
-  s.required_rubygems_version = Gem::Requirement.new("= 1.2") if s.respond_to? :required_rubygems_version=
+  #s.required_rubygems_version = Gem::Requirement.new("= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["Tim Kofol"]
   s.date = %q{2008-10-19}
   s.description = %q{A Ruby Gem For Corporate Finance Calculations.}
